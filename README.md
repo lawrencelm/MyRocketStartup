@@ -15,19 +15,20 @@ List of "rocket ship" startups. Looking for the next big thing.
 |uBeam| Energy      |Los Angeles|Total funding of $13.2 Million in 4 Rounds from 16 Investors. Most Recent Funding: $10 Million Series A on October 30, 2014 |1-10 (Nov '14. From Crunchbase)|A wireless power startup that transmits power over-the-air to charge electronic devices. |
 |Magic Leap|VR| Palo Alto | Raised $542 million in second-round financing from an unparalleled lineup of bigfoot investors led by Google (Oct '14) |101 - 250 (Nov '14. From Linkedin)|It's time to bring magic back into the world. Launching the future of computing|
 | Palantir|Data analytics and Consulting| Palo Alto |The company has been doubling its revenue every year. It was estimated that the company would likely close almost $1 billion in contracts in 2014. (Nov'14)|1200 (Dec '13)|Builds software that connects data, technologies, humans and environments.|
-|SpaceX| Aerospace| Hawthorne, CA |In the early stages of developing advanced micro-satellites operating in large formations for Internet access. Official announcement in 2 to 3 months. (Nov '14)|4000 (Oct '14)||
+|SpaceX| Aerospace| Hawthorne, CA |In the early stages of developing advanced micro-satellites operating in large formations for Internet access. Official announcement in 2 to 3 months. (Nov '14)|4000 (Oct '14)|They make rockets.|
 |Soylent| Food| Los Angeles|Raised funds in excess of US$3,500,000 through crowdfunding and $2.3 Million in 3 rounds from 5 investors (including YC) for additional research and modification of the formula. The first shipments of US orders began in the first week of May 2014. (Nov' 14)|1-10 (Nov '14. from Linkedin)|Soylent is a food product (classified as a food, not a supplement, by the FDA) designed for use as a staple meal by all adults. Each serving of Soylent provides maximum nutrition with minimum effort.|
 
 ## Newcomers to watch
 
 |Company|Industry|Location| Stage  |Size|Description|
 |:-----:|:-----:|:-----:|:-------------:|:-----:|:-------------:|
-|Magic Leap|VR|||||
-|uBeam||||||
-|Paymentwall|Payment|San Francisco||||
-|Healthtap|Mobile health|||||
-|Yik Yak||||||
-|Product Hunt||||||
+|Magic Leap|-|-|-|-|-|
+|uBeam|-|-|-|-|-|
+|Paymentwall|Payment|San Francisco|Launched PaymentWall for Smart TV (Nov '14).|120+ (Nov '14)|A global payments platform for monetizing digital goods and services.|
+|Healthtap|Mobile health|Palo Alto|To date, it says it has served more than 1.2 billion answers to users’ questions, and it says it has saved lives, although this has not been substantiated.|11-50 (Nov '14)|Patients can ask medical questions of HealthTap+’s network of thousands of doctors for free, and get access to health tips, checklists, and news articles on a comprehensive array of health topics and issues. |
+|Yik Yak|-|-|-|-|-|
+|Product Hunt|-|-|-|-|-|
+|Homejoy|-|-|-|-|-|
 
 ## Social
 
@@ -42,8 +43,9 @@ List of "rocket ship" startups. Looking for the next big thing.
 
 |Company|Industry|Location| Stage  |Size|Description|
 |:-----:|:-----:|:-----:|:-------------:|:-----:|:-------------:|
-|Airbnb|Accomodation and Travel|San Francisco|Eelease a glossy new print quarterly called Pineapple this month. (Nove '14) |1001-5000 employees (Nov '14. From Linkedin)|A trusted community marketplace for people to list, discover, and book unique accommodations around the world|
+|Airbnb|Accomodation and Travel|San Francisco|Released a glossy new print quarterly called Pineapple this month. (Nove '14) |1001-5000 employees (Nov '14. From Linkedin)|A trusted community marketplace for people to list, discover, and book unique accommodations around the world|
 |Reddit|News / Social|San Francisco|Yishan Wong (former CEO) resigned from reddit after a disagreement with the board regarding the new office's location (Nov '14). Raised $50M on a $500M valuation in a series B led by Sam Altman (Sep '14).|51 (Jul '14)|Entertainment, social networking service and news website where registered community members can submit content, such as text posts or direct links.|
+|Product Hunt|Curated Web|San Francisco|Growing fast and getting a lot of attention. Total funding received was $7.5 M in 4 rounds from 18 investors. Most recent funding was $440 K debt financing (Oct '14)||Surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.|
 |Teespring||||||
 |DoorDash||||||
 |Stripe||||||
