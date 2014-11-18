@@ -72,6 +72,18 @@ List of "rocket ship" startups.
 
 > Solar technology company acquired by SunPower
 
+# Global Startups:
+
+## China
+
+## India
+
+## Brazil
+
+* Ingresse
+
+* Buscapé
+
 ## Forbes: "The Hottest Startups Of 2013"
 
 * Boxed
