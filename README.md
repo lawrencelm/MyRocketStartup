@@ -10,8 +10,9 @@ List of "rocket ship" startups.
 
 * uBeam
 
-> Industry: Energy
-> Description: A wireless power startup that transmits power over-the-air to charge electronic devices.
+| Industry        | Description           |
+| ------------- |:-------------:|
+| Energy      | A wireless power startup that transmits power over-the-air to charge electronic devices. |
 
 * Magic Leap
 
