@@ -18,7 +18,7 @@ List of "rocket ship" startups.
 
 | Industry        | Location           | Stage  |Description|
 | ------------- |:-------------:|:-----:|:-----:|
-| VR      | Palo Alto | Raised $542 million in second-round financing from an unparalleled lineup of bigfoot investors led by Google |It's time to bring magic back into the world. Launching the future of computing|
+| VR      | Palo Alto | Raised $542 million in second-round financing from an unparalleled lineup of bigfoot investors led by Google (Oct '14) |It's time to bring magic back into the world. Launching the future of computing|
 
 * Tesla
 
