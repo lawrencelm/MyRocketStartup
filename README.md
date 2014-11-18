@@ -8,8 +8,8 @@ List of "rocket ship" startups.
 
 ## Amazing new technologies
 
-|Company| Industry        | Location           | Stage  |Size (Sep '14)|Description|
-|:-----:| ----- |:-----:|:-------------:|:-----:|:-------------:|
+|Company|Industry|Location| Stage  |Size (Sep '14)|Description|
+|:-----:|:-----:|:-----:|:-------------:|:-----:|:-------------:|
 |Tesla| Automotive      | Palo Alto |Released Model D, the dual-motor car (Oct '14) |6000|Designs, manufactures and sells electric vehicles, such as the Tesla Roadster, the first fully electric sports car.|
 |uBeam| Energy      | |||A wireless power startup that transmits power over-the-air to charge electronic devices. |
 |Magic Leap| VR      | Palo Alto | Raised $542 million in second-round financing from an unparalleled lineup of bigfoot investors led by Google (Oct '14) ||It's time to bring magic back into the world. Launching the future of computing|
@@ -36,13 +36,12 @@ List of "rocket ship" startups.
 
 ## Social
 
-* Snapchat
-
-* Yik Yak
-
-* Pinterest
-
-* Quora
+|Company|Industry|Location| Stage  |Size (Sep '14)|Description|
+|:-----:|:-----:|:-----:|:-------------:|:-----:|:-------------:|
+|Snapchat|Social|||||
+|Yik Yak| Social/Anonymous|||||
+|Pinterest|Social/Image-sharing|||||
+|Quora|Social/Questions|||||
 
 ## YC Companies
 
@@ -96,9 +95,9 @@ List of "rocket ship" startups.
 
 ## Forbes: "The Hottest Startups Of 2013"
 
-* Boxed
-
-> Offering free delivery on bulk goods, Boxed puts Costco on your smartphone. Despite the logistical challenges and slim profit margins of storing and shipping products, the New York-based company has grown from two states to 48 in the last quarter. Founded by former Zynga employee Chieh Huang in June, Boxed raised $1.1 million seed round in August from the likes of Bessemer Venture Partners, ENIAC Ventures and Social Starts. Average order sizes are a little over $100, though the repeat purchases on three months worth of toilet paper are less frequent than popping to your local store. They face competition from shipping behemoth Amazon, but Boxed is winning the iPhone wallets of young urban professionals looking to save money and time without becoming a member -- or opening a browser.
+|Company|Industry|Location| Stage  |Size (Sep '14)|Description|
+|:-----:|:-----:|:-----:|:-------------:|:-----:|:-------------:|
+|Boxed|||||Offering free delivery on bulk goods, Boxed puts Costco on your smartphone. Despite the logistical challenges and slim profit margins of storing and shipping products, the New York-based company has grown from two states to 48 in the last quarter. Founded by former Zynga employee Chieh Huang in June, Boxed raised $1.1 million seed round in August from the likes of Bessemer Venture Partners, ENIAC Ventures and Social Starts. Average order sizes are a little over $100, though the repeat purchases on three months worth of toilet paper are less frequent than popping to your local store. They face competition from shipping behemoth Amazon, but Boxed is winning the iPhone wallets of young urban professionals looking to save money and time without becoming a member -- or opening a browser.|
 
 * Blue Apron
 
