@@ -38,7 +38,15 @@ List of "rocket ship" startups.
 
 * Vicarious
 
-> AI
+| Industry        | Location           | Stage (Apr '14)  |Description|
+| ------------- |:-------------:|:-----:|:-----:|:-----:|
+| AI      | San Francisco | Raised $40 M in series B (Mar '14) from Mark Zuckerberg, Peter Thiel, Vinod Khosla and Ashton Kutcher. Raised additional investment (Apr '14) from Jeff Bezos, Yahoo's Jerry Yang, Skype's Janus Friis and Salesforce CEO Marc Benioff.| They are using the theorized computational principles of the brain to build software that can think and learn like a human.|
+
+* Soylent
+
+| Industry        | Location           | Stage (Nov '14)  |Size (Oct '14)|
+| ------------- |:-------------:|:-----:|:-----:|:-----:|
+| Food      | Los Angeles|Raised funds in excess of US$3,500,000 through crowdfunding and $2.3 Million in 3 rounds from 5 investors (including YC) for additional research and modification of the formula. The first shipments of US orders began in the first week of May 2014.|1-10 (from Linkedin)|
 
 ## Newcomers to watch
 
@@ -46,7 +54,11 @@ List of "rocket ship" startups.
 
 * uBeam
 
-* PaymentWall
+* Paymentwall
+> Payment company
+
+* Healthtap
+> Mobile health company
 
 * Yik Yak
 
@@ -76,11 +88,15 @@ List of "rocket ship" startups.
 
 * Airbnb
 
-## Stanford
+## Stanford (current students)
 
 * Dfly Systems
 
 > Solar technology company acquired by SunPower
+
+* OneTune
+
+> Music streaming powered by communities
 
 # Global Startups:
 
