@@ -20,19 +20,14 @@ List of "rocket ship" startups.
 
 ## Newcomers to watch
 
-* Magic Leap
-
-* uBeam
-
-* Paymentwall
-> Payment company
-
-* Healthtap
-> Mobile health company
-
-* Yik Yak
-
-* Product Hunt
+|Company|Industry|Location| Stage  |Size (Sep '14)|Description|
+|:-----:|:-----:|:-----:|:-------------:|:-----:|:-------------:|
+|Magic Leap||||||
+|uBeam||||||
+|Paymentwall|Payment|||||
+|Healthtap|Mobile health|||||
+|Yik Yak||||||
+|Product Hunt||||||
 
 ## Social
 
@@ -45,41 +40,32 @@ List of "rocket ship" startups.
 
 ## YC Companies
 
-* Airbnb
-
-* Reddit
-
-* Teespring
-
-* DoorDash
-
-* Stripe
-
-* Homejoy
-
-* Zenefits
-
-* Instacart
+|Company|Industry|Location| Stage  |Size (Sep '14)|Description|
+|:-----:|:-----:|:-----:|:-------------:|:-----:|:-------------:|
+|Airbnb||||||
+|Reddit||||||
+|Teespring||||||
+|DoorDash||||||
+|Stripe||||||
+|Homejoy||||||
+|Zenefits||||||
+|Instacart||||||
 
 ## Super Hot
 
-* Tinder
-
-* Snapchat
-
-* Uber
-
-* Airbnb
+|Company|Industry|Location| Stage  |Size (Sep '14)|Description|
+|:-----:|:-----:|:-----:|:-------------:|:-----:|:-------------:|
+|Tinder||||||
+|Snapchat||||||
+|Uber||||||
+|Airbnb||||||
 
 ## Stanford (current students)
 
-* Dfly Systems
-
-> Solar technology company acquired by SunPower
-
-* OneTune
-
-> Music streaming powered by communities
+|Company|Description|
+|:-----:|:-------------:|
+|Dfly Systems|Solar technology company acquired by SunPower|
+|OneTune|Music streaming powered by communities|
 
 # Global Startups:
 
@@ -89,9 +75,10 @@ List of "rocket ship" startups.
 
 ## Brazil
 
-* Ingresse
-
-* Buscapé
+|Company|Description|
+|:-----:|:-------------:|
+|Ingresse|Biggest website for online tickets in the country|
+|Buscapé|E-commerce company|
 
 ## Forbes: "The Hottest Startups Of 2013"
 
