@@ -24,7 +24,7 @@ List of "rocket ship" startups. Looking for the next big thing.
 |:-----:|:-----:|:-----:|:-------------:|:-----:|:-------------:|
 |Magic Leap||||||
 |uBeam||||||
-|Paymentwall|Payment|||||
+|Paymentwall|Payment|San Francisco||||
 |Healthtap|Mobile health|||||
 |Yik Yak||||||
 |Product Hunt||||||
@@ -42,8 +42,8 @@ List of "rocket ship" startups. Looking for the next big thing.
 
 |Company|Industry|Location| Stage  |Size|Description|
 |:-----:|:-----:|:-----:|:-------------:|:-----:|:-------------:|
-|Airbnb||||||
-|Reddit||||||
+|Airbnb|Accomodation and Travel|San Francisco|Eelease a glossy new print quarterly called Pineapple this month. (Nove '14) |1001-5000 employees (Nov '14. From Linkedin)|A trusted community marketplace for people to list, discover, and book unique accommodations around the world|
+|Reddit|News / Social|San Francisco|Yishan Wong (former CEO) resigned from reddit after a disagreement with the board regarding the new office's location (Nov '14). Raised $50M on a $500M valuation in a series B led by Sam Altman (Sep '14).|51 (Jul '14)|Entertainment, social networking service and news website where registered community members can submit content, such as text posts or direct links.|
 |Teespring||||||
 |DoorDash||||||
 |Stripe||||||
