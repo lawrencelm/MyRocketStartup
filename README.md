@@ -64,6 +64,16 @@ List of "rocket ship" startups.
 
 * Yik Yak
 
+## Social
+
+* Snapchat
+
+* Yik Yak
+
+* Pinterest
+
+* Quora
+
 ## YC Companies
 
 * Airbnb
