@@ -8,6 +8,12 @@ List of "rocket ship" startups.
 
 ## Amazing new technologies
 
+|Company| Industry        | Location           | Stage  |Size (Sep '14)|Description|
+|:-------------:| ------------- |:-------------:|:-----:|:-----:|:-----:|
+|Tesla| Automotive      | Palo Alto |Released Model D, the dual-motor car (Oct '14) |6000|Designs, manufactures and sells electric vehicles, such as the Tesla Roadster, the first fully electric sports car.|
+|uBeam| Energy      | |||A wireless power startup that transmits power over-the-air to charge electronic devices. |
+|Magic Leap| VR      | Palo Alto | Raised $542 million in second-round financing from an unparalleled lineup of bigfoot investors led by Google (Oct '14) ||It's time to bring magic back into the world. Launching the future of computing|
+
 * uBeam
 
 | Industry        | Description           |
