@@ -14,7 +14,63 @@ List of "rocket ship" startups.
 
 * Magic Leap
 
-> It's time to bring magic back into the world.
+> VR. It's time to bring magic back into the world.
+
+* Tesla
+
+* Palantir
+
+> Data analytics/consulting
+
+* SpaceX
+
+> Rockets
+
+* Vicarious
+
+> AI
+
+## Newcomers to watch
+
+* Magic Leap
+
+* uBeam
+
+* PaymentWall
+
+* Yik Yak
+
+## YC Companies
+
+* Airbnb
+
+* Reddit
+
+* Teespring
+
+* DoorDash
+
+* Stripe
+
+* Homejoy
+
+* Zenefits
+
+## Super Hot
+
+* Tinder
+
+* Snapchat
+
+* Uber
+
+* Airbnb
+
+## Stanford
+
+* Dfly Systems
+
+> Solar technology company acquired by SunPower
 
 ## Forbes: "The Hottest Startups Of 2013"
 
