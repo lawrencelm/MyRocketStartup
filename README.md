@@ -10,12 +10,12 @@ List of "rocket ship" startups. Looking for the next big thing.
 
 |Company|Industry|Location| Stage  |Size|Description|
 |:-----:|:-----:|:-----:|:-------------:|:-----:|:-------------:|
+|Vicarious| AI      | San Francisco | Raised $40 M in series B (Mar '14) from Mark Zuckerberg, Peter Thiel, Vinod Khosla and Ashton Kutcher. Raised additional investment (Apr '14) from Jeff Bezos, Yahoo's Jerry Yang, Skype's Janus Friis and Salesforce CEO Marc Benioff.| |They are using the theorized computational principles of the brain to build software that can think and learn like a human.|
 |Tesla| Automotive      | Palo Alto |Released Model D, the dual-motor car (Oct '14) |6000 (Sep '14)|Designs, manufactures and sells electric vehicles, such as the Tesla Roadster, the first fully electric sports car.|
 |uBeam| Energy      | |||A wireless power startup that transmits power over-the-air to charge electronic devices. |
 |Magic Leap| VR      | Palo Alto | Raised $542 million in second-round financing from an unparalleled lineup of bigfoot investors led by Google (Oct '14) ||It's time to bring magic back into the world. Launching the future of computing|
 | Palantir|Data analytics and Consulting      | Palo Alto |The company has been doubling its revenue every year. It was estimated that the company would likely close almost $1 billion in contracts in 2014. (Nov'14)|1200 (Dec '13)|Builds software that connects data, technologies, humans and environments.|
 |SpaceX| Aerospace      | Hawthorne, CA |In the early stages of developing advanced micro-satellites operating in large formations for Internet access. Official announcement in 2 to 3 months. (Nov '14)|4000 (Oct '14)||
-|Vicarious| AI      | San Francisco | Raised $40 M in series B (Mar '14) from Mark Zuckerberg, Peter Thiel, Vinod Khosla and Ashton Kutcher. Raised additional investment (Apr '14) from Jeff Bezos, Yahoo's Jerry Yang, Skype's Janus Friis and Salesforce CEO Marc Benioff.| |They are using the theorized computational principles of the brain to build software that can think and learn like a human.|
 |Soylent| Food      | Los Angeles|Raised funds in excess of US$3,500,000 through crowdfunding and $2.3 Million in 3 rounds from 5 investors (including YC) for additional research and modification of the formula. The first shipments of US orders began in the first week of May 2014. (Nov' 14)|1-10 (Nov '14. from Linkedin)||
 
 ## Newcomers to watch
@@ -33,10 +33,10 @@ List of "rocket ship" startups. Looking for the next big thing.
 
 |Company|Industry|Location| Stage  |Size|Description|
 |:-----:|:-----:|:-----:|:-------------:|:-----:|:-------------:|
-|Snapchat|Social|||||
-|Yik Yak| Social/Anonymous|||||
-|Pinterest|Social/Image-sharing|||||
-|Quora|Social/Questions|||||
+|Snapchat|Social|Los Angeles|Currently working on its ad strategy. Rolled out its ads in Oct '14. Valution of  $10 billion valuation. (Nov' 14)|35 (Feb '14)|Photo messaging application|
+|Yik Yak| Social/Anonymous|Atlanta, GA|Extremely popular at Stanford. Growing fast in colleges. A little over two months after the initial $1.5 million, Yik Yak secured $10 million from its previous investors, along with Renren Lianhe Holdings, and Tim Draper. (Nov '14)|15 (Nov' 14)|Allows people to anonymously create and view posts within a 1.5 mile radius depending on how many other users are nearby.|
+|Pinterest|Social/Image-sharing|San Francisco|Pinterest generates its first revenue this year, when it begins charging advertisers to promote their wares to the site's millions of hobbyists, vacation planners, and do-it-yourselfers. Ads on the site could generate as much as $500 million in 2016, estimates Michael Pachter, an analyst at Wedbush Securities. (Jan '14)|300+ (Nov '14)|Web and mobile application company that offers a visual discovery, collection, sharing, and storage tool.|
+|Quora|Social/Questions|Mountain View|In April 2014, Quora announced an $80 million Series C round of funding, valuing the company at over $900 million. The funding was lead by Tiger Global Management.D’Angelo also said the site would likely introduce its first ads in 2015. (Nov '14)|108 (Nov '14)|A question-and-answer website where questions are created, answered, edited and organized by its community of users.|
 
 ## YC Companies
 
