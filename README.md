@@ -10,11 +10,15 @@ List of "rocket ship" startups.
 
 * uBeam
 
-> A wireless power startup that transmits power over-the-air to charge electronic devices.
+> Industry: Energy
+> Description: A wireless power startup that transmits power over-the-air to charge electronic devices.
 
 * Magic Leap
 
-> VR. It's time to bring magic back into the world.
+> Industry: VR
+> Location: Palo Alto
+> Stage: Raised $542 million in second-round financing from an unparalleled lineup of bigfoot investors led by Google
+> Description: It's time to bring magic back into the world -- launching the future of computing
 
 * Tesla
 
