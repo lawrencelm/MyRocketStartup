@@ -43,7 +43,7 @@ List of "rocket ship" startups. Looking for the next big thing.
 
 |Company|Industry|Location| Stage  |Size|Description|
 |:-----:|:-----:|:-----:|:-------------:|:-----:|:-------------:|
-|Airbnb|Accomodation and Travel|San Francisco|Released a glossy new print quarterly called Pineapple this month. (Nove '14) |1001-5000 employees (Nov '14. From Linkedin)|A trusted community marketplace for people to list, discover, and book unique accommodations around the world|
+|Airbnb|Accomodation and Travel|San Francisco|Released a glossy new print quarterly called Pineapple this month. (Nov '14) |1001-5000 employees (Nov '14. From Linkedin)|A trusted community marketplace for people to list, discover, and book unique accommodations around the world|
 |Reddit|News / Social|San Francisco|Yishan Wong (former CEO) resigned from reddit after a disagreement with the board regarding the new office's location (Nov '14). Raised $50M on a $500M valuation in a series B led by Sam Altman (Sep '14).|51 (Jul '14)|Entertainment, social networking service and news website where registered community members can submit content, such as text posts or direct links.|
 |Product Hunt|Curated Web|San Francisco|Growing fast and getting a lot of attention. Total funding received was $7.5 M in 4 rounds from 18 investors. Most recent funding was $440 K debt financing (Oct '14)||Surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.|
 |Teespring|Custom Apparel / Crowdfunding|Providence, RI|In January 2014, Teespring closed a Series A round of $20 million from venture capital firm Andreessen Horowitz. Andreessen partner Laars Dalgaard, formerly of SuccessFactors, led the investment, his first with the firm. Current revenues and growth are unknown and unlisted.|~70 (Nov '14)|A crowdfunding platform for custom apparel.|
@@ -57,10 +57,10 @@ List of "rocket ship" startups. Looking for the next big thing.
 
 |Company|Industry|Location| Stage  |Size|Description|
 |:-----:|:-----:|:-----:|:-------------:|:-----:|:-------------:|
-|Tinder||||||
-|Snapchat||||||
-|Uber||||||
-|Airbnb||||||
+|Tinder|Dating|||||
+|Snapchat|-|-|-|-|-|
+|Uber|Ridesharing|San Francisco|Despite what Glassdoor seems to indicate, Uber’s engineers absolutely love working there. Insane traction, as you probably know||Ridesharing service through mobile apps.|
+|Airbnb|-|-|-|-|-|
 
 ## Stanford (current students)
 
