@@ -24,7 +24,7 @@ List of "rocket ship" startups.
 
 | Industry        | Location           | Stage  |Size (Sep '14)|Description|
 | ------------- |:-------------:|:-----:|:-----:|:-----:|
-| Automotive      | Palo Alto | 6000|Released Model D, the dual-motor car (Oct '14) |Designs, manufactures and sells electric vehicles, such as the Tesla Roadster, the first fully electric sports car. - See more at: http://www.crunchbase.com/organization/tesla-motors#sthash.bvEAV8ir.dpuf|
+| Automotive      | Palo Alto |Released Model D, the dual-motor car (Oct '14) |6000|Designs, manufactures and sells electric vehicles, such as the Tesla Roadster, the first fully electric sports car.|
 
 * Palantir
 
@@ -32,7 +32,9 @@ List of "rocket ship" startups.
 
 * SpaceX
 
-> Rockets
+| Industry        | Location           | Stage (Nov '14)  |Size (Oct '14)|
+| ------------- |:-------------:|:-----:|:-----:|:-----:|
+| Aerospace      | Hawthorne, CA |In the early stages of developing advanced micro-satellites operating in large formations for Internet access. Official announcement in 2 to 3 months.|4000|
 
 * Vicarious
 
