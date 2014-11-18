@@ -22,6 +22,10 @@ List of "rocket ship" startups.
 
 * Tesla
 
+| Industry        | Location           | Stage  |Size (Sep '14)|Description|
+| ------------- |:-------------:|:-----:|:-----:|:-----:|
+| Automotive      | Palo Alto | 6000|Released Model D, the dual-motor car (Oct '14) |Designs, manufactures and sells electric vehicles, such as the Tesla Roadster, the first fully electric sports car. - See more at: http://www.crunchbase.com/organization/tesla-motors#sthash.bvEAV8ir.dpuf|
+
 * Palantir
 
 > Data analytics/consulting
