@@ -28,7 +28,9 @@ List of "rocket ship" startups.
 
 * Palantir
 
-> Data analytics/consulting
+| Industry        | Location           | Stage (Nov'14)|Size (Dec '13)|Description|
+| ------------- |:-------------:|:-----:|:-----:|:-----:|
+| Data analytics/consulting      | Palo Alto |The company has been doubling its revenue every year. It was estimated that the company would likely close almost $1 billion in contracts in 2014.|1200|Builds software that connects data, technologies, humans and environments.|
 
 * SpaceX
 
