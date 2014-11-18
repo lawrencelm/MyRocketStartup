@@ -46,12 +46,12 @@ List of "rocket ship" startups. Looking for the next big thing.
 |Airbnb|Accomodation and Travel|San Francisco|Released a glossy new print quarterly called Pineapple this month. (Nove '14) |1001-5000 employees (Nov '14. From Linkedin)|A trusted community marketplace for people to list, discover, and book unique accommodations around the world|
 |Reddit|News / Social|San Francisco|Yishan Wong (former CEO) resigned from reddit after a disagreement with the board regarding the new office's location (Nov '14). Raised $50M on a $500M valuation in a series B led by Sam Altman (Sep '14).|51 (Jul '14)|Entertainment, social networking service and news website where registered community members can submit content, such as text posts or direct links.|
 |Product Hunt|Curated Web|San Francisco|Growing fast and getting a lot of attention. Total funding received was $7.5 M in 4 rounds from 18 investors. Most recent funding was $440 K debt financing (Oct '14)||Surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.|
-|Teespring||||||
-|DoorDash||||||
-|Stripe||||||
-|Homejoy||||||
-|Zenefits||||||
-|Instacart||||||
+|Teespring|Custom Apparel / Crowdfunding|Providence, RI|In January 2014, Teespring closed a Series A round of $20 million from venture capital firm Andreessen Horowitz. Andreessen partner Laars Dalgaard, formerly of SuccessFactors, led the investment, his first with the firm. Current revenues and growth are unknown and unlisted.|~70 (Nov '14)|A crowdfunding platform for custom apparel.|
+|DoorDash|Food delivery|Palo Alto|Raised $17.3M from Sequoia to expand its service. (May '14)|12 (Mar '14)|Enables delivery in areas where it was not previously available. The company's mission is to empower small business owners to offer delivery in an affordable and convenient way.|
+|Stripe|Payment|San Francisco|In March 2014, announced that Stripe would support Bitcoin transactions. Also announced plans to process payments via Automated Clearing House, which would allow merchants to set up payments against a customer's bank account in the United States (Jan '14). In Oct '14, Stripe became one of the payment providers whose SDKs support Apple Pay integration in iOS apps.|153 (Aug '14)|Provides a way for individuals and businesses to accept payments over the Internet.|
+|Homejoy|Home cleaning / home services|San Francisco|It’s hoping to expand into several other verticals. Adora said the company would continue to test out other services in its different markets. (Oct '14)|130 (Nov '14)|On-demand home services|
+|Zenefits|Human resources|San Francisco|Despite its impressive growth, scaling the company is going to be a huge challenge. IVP labeled it the “fastest-growing software-as-a-service company we’ve ever seen.” $66.5 Million Series B (Jun '14).|300 (Nov '14)|Gives you, your managers, and your employees a single place to manage all your HR — payroll, benefits, compliance, and more — all online, in one beautiful dashboard.|
+|Instacart|Grocery delivery / logistics|San Francisco|Very impressive list of investors, signaling presumably very impressive traction. Great product|40 (Nov '14)|Online grocery shopping|
 
 ## Super Hot
 
