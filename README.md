@@ -57,7 +57,7 @@ List of "rocket ship" startups. Looking for the next big thing.
 
 |Company|Industry|Location| Stage  |Size|Description|
 |:-----:|:-----:|:-----:|:-------------:|:-----:|:-------------:|
-|Tinder|Dating|||||
+|Tinder|Online Dating|Los Angeles|There have been some changes in leadership amidst accusations of sexism -- the CEO Sean Rad will be replaced, but stays on the board (Nov '14). As of April 2014, Tinder was rumored to have more than 10 million active daily users.|33 (Aug '14)|Matchmaking mobile app, which connects with users' Facebook profiles to provide pictures and ages for other users to view.|
 |Snapchat|-|-|-|-|-|
 |Uber|Ridesharing|San Francisco|Despite what Glassdoor seems to indicate, Uber’s engineers absolutely love working there. Insane traction, as you probably know||Ridesharing service through mobile apps.|
 |Airbnb|-|-|-|-|-|
