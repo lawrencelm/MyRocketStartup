@@ -13,48 +13,10 @@ List of "rocket ship" startups.
 |Tesla| Automotive      | Palo Alto |Released Model D, the dual-motor car (Oct '14) |6000|Designs, manufactures and sells electric vehicles, such as the Tesla Roadster, the first fully electric sports car.|
 |uBeam| Energy      | |||A wireless power startup that transmits power over-the-air to charge electronic devices. |
 |Magic Leap| VR      | Palo Alto | Raised $542 million in second-round financing from an unparalleled lineup of bigfoot investors led by Google (Oct '14) ||It's time to bring magic back into the world. Launching the future of computing|
-
-* uBeam
-
-| Industry        | Description           |
-| ------------- |:-------------:|
-| Energy      | A wireless power startup that transmits power over-the-air to charge electronic devices. |
-
-* Magic Leap
-
-| Industry        | Location           | Stage  |Description|
-| ------------- |:-------------:|:-----:|:-----:|
-| VR      | Palo Alto | Raised $542 million in second-round financing from an unparalleled lineup of bigfoot investors led by Google (Oct '14) |It's time to bring magic back into the world. Launching the future of computing|
-
-* Tesla
-
-| Industry        | Location           | Stage  |Size (Sep '14)|Description|
-| ------------- |:-------------:|:-----:|:-----:|:-----:|
-| Automotive      | Palo Alto |Released Model D, the dual-motor car (Oct '14) |6000|Designs, manufactures and sells electric vehicles, such as the Tesla Roadster, the first fully electric sports car.|
-
-* Palantir
-
-| Industry        | Location           | Stage (Nov'14)|Size (Dec '13)|Description|
-| ------------- |:-------------:|:-----:|:-----:|:-----:|
-| Data analytics/consulting      | Palo Alto |The company has been doubling its revenue every year. It was estimated that the company would likely close almost $1 billion in contracts in 2014.|1200|Builds software that connects data, technologies, humans and environments.|
-
-* SpaceX
-
-| Industry        | Location           | Stage (Nov '14)  |Size (Oct '14)|
-| ------------- |:-------------:|:-----:|:-----:|:-----:|
-| Aerospace      | Hawthorne, CA |In the early stages of developing advanced micro-satellites operating in large formations for Internet access. Official announcement in 2 to 3 months.|4000|
-
-* Vicarious
-
-| Industry        | Location           | Stage (Apr '14)  |Description|
-| ------------- |:-------------:|:-----:|:-----:|:-----:|
-| AI      | San Francisco | Raised $40 M in series B (Mar '14) from Mark Zuckerberg, Peter Thiel, Vinod Khosla and Ashton Kutcher. Raised additional investment (Apr '14) from Jeff Bezos, Yahoo's Jerry Yang, Skype's Janus Friis and Salesforce CEO Marc Benioff.| They are using the theorized computational principles of the brain to build software that can think and learn like a human.|
-
-* Soylent
-
-| Industry        | Location           | Stage (Nov '14)  |Size (Oct '14)|
-| ------------- |:-------------:|:-----:|:-----:|:-----:|
-| Food      | Los Angeles|Raised funds in excess of US$3,500,000 through crowdfunding and $2.3 Million in 3 rounds from 5 investors (including YC) for additional research and modification of the formula. The first shipments of US orders began in the first week of May 2014.|1-10 (from Linkedin)|
+| Palantir|Data analytics/consulting      | Palo Alto |The company has been doubling its revenue every year. It was estimated that the company would likely close almost $1 billion in contracts in 2014.|1200|Builds software that connects data, technologies, humans and environments.|
+|SpaceX| Aerospace      | Hawthorne, CA |In the early stages of developing advanced micro-satellites operating in large formations for Internet access. Official announcement in 2 to 3 months.|4000||
+|Vicarious| AI      | San Francisco | Raised $40 M in series B (Mar '14) from Mark Zuckerberg, Peter Thiel, Vinod Khosla and Ashton Kutcher. Raised additional investment (Apr '14) from Jeff Bezos, Yahoo's Jerry Yang, Skype's Janus Friis and Salesforce CEO Marc Benioff.| |They are using the theorized computational principles of the brain to build software that can think and learn like a human.|
+|Soylent| Food      | Los Angeles|Raised funds in excess of US$3,500,000 through crowdfunding and $2.3 Million in 3 rounds from 5 investors (including YC) for additional research and modification of the formula. The first shipments of US orders began in the first week of May 2014.|1-10 (from Linkedin)||
 
 ## Newcomers to watch
 
