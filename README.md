@@ -82,6 +82,28 @@ List of "rocket ship" startups. Looking for the next big thing.
 |Ingresse|Biggest website for online tickets in the country|
 |Buscapé|E-commerce company|
 
+# Other lists
+
+## Sam Altman: "companies that Sam Altman thinks are on a breakout trajectory"
+
+|Company|Industry|Location|Size|
+|:-----:|:-----:|:-----:|:-----:|
+|Uber|Ridesharing|||
+|Stripe|Payments|||
+|Airbnb||||
+|Dropbox||||
+|Pinterest||||
+|Box||||
+|Zenefits||||
+|Instacart||||
+|Homejoy||||
+|Teespring||||
+|Optimizely||||
+|Coinbase||||
+|Weebly||||
+|Crowdtilt||||
+|Pebble|Wearables|||
+
 ## Forbes: "The Hottest Startups Of 2013"
 
 |Company|Description|
