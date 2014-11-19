@@ -95,16 +95,16 @@ List of "rocket ship" startups. Looking for the next big thing.
 
 |Company|Industry|Location|Stage|Size|
 |:-----:|:-----:|:-----:|:-----:|:-----:|
-|Uber|Ridesharing|San Francisco|||
+|Uber|Ridesharing|San Francisco|-||
 |Stripe|Payments|San Francisco||153 (Aug '14)|
 |Airbnb|Accomodation and Travel|San Francisco||1001-5000 employees (Nov '14. From Linkedin)|
-|Dropbox|||||
-|Pinterest|Social / Image-sharing||||
+|Dropbox|File sharing / Cloud storage|San Francisco||552 (Jan '14)|
+|Pinterest|Social / Image-sharing|San Francisco|-|-|
 |Box|Enterprise Software / Cloud Storage|Los Altos|Box inched a bit closer to going public Monday, announcing a $150 million cash injection and updating its S-1 documents to show 2014 growth. (Jul '14)|750 (Mar '13)|
 |Zenefits||||
 |Instacart||||
-|Homejoy||||
-|Teespring|Custom Apparel / Crowdfunding|Providence, RI|~70 (Nov '14)|
+|Homejoy|Home cleaning / home services|San Francisco|-|130 (Nov '14)|
+|Teespring|Custom Apparel / Crowdfunding|Providence, RI||~70 (Nov '14)|
 |Optimizely||||
 |Coinbase||||
 |Weebly||||
