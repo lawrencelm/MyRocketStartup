@@ -75,6 +75,13 @@ List of "rocket ship" startups. Looking for the next big thing.
 
 ## India
 
+|Company|Description|Valuation|
+|:-----:|:-------------:||:------:|
+|Flipkart|Started by selling books online, but has morphed into a broad online marketplace where thousands of third-party merchants sell electronics, clothes and other items to more than 20 million registered users. It is India’s largest e-commerce marketplace by sales transacted. | Latest Valuation - 10 Billion USD |
+|Snapdeal|Snapdeal.com is an online marketplace, headquartered in New Delhi, India.Snapdeal has grown to become the largest online marketplace in India by products offered offering an assortment of 4 million+ products across diverse categories from over 20,000 sellers. | Raised $627 million from SoftBank Internet in October|
+
+
+
 ## Brazil
 
 |Company|Description|
