@@ -52,6 +52,7 @@ List of "rocket ship" startups. Looking for the next big thing.
 |Homejoy|Home cleaning / home services|San Francisco|It’s hoping to expand into several other verticals. Adora said the company would continue to test out other services in its different markets. (Oct '14)|130 (Nov '14)|On-demand home services|
 |Zenefits|Human resources|San Francisco|Despite its impressive growth, scaling the company is going to be a huge challenge. IVP labeled it the “fastest-growing software-as-a-service company we’ve ever seen.” $66.5 Million Series B (Jun '14).|300 (Nov '14)|Gives you, your managers, and your employees a single place to manage all your HR — payroll, benefits, compliance, and more — all online, in one beautiful dashboard.|
 |Instacart|Grocery delivery / logistics|San Francisco|Very impressive list of investors, signaling presumably very impressive traction. Great product|40 (Nov '14)|Online grocery shopping|
+|Clever|Education|San Francisco|Impressive list of investors includes YC, Sequoia, Google Ventures. |11-50  (Nov '14. From Linkedin)|The Clever technology does two things: 1) Clever extracts student data from legacy data systems inside of schools. 2) Clever makes the data available to developers via a modern REST API. |
 
 ## Super Hot
 
