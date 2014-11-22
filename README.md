@@ -39,7 +39,6 @@ This list was based on www.breakoutlist.com. Check them out!
 |Snapchat|Social|Los Angeles|Currently working on its ad strategy. Rolled out its ads in Oct '14. Valution of  $10 billion valuation. (Nov' 14)|35 (Feb '14)|Photo messaging application|
 |Yik Yak| Social/Anonymous|Atlanta, GA|Extremely popular at Stanford. Growing fast in colleges. A little over two months after the initial $1.5 million, Yik Yak secured $10 million from its previous investors, along with Renren Lianhe Holdings, and Tim Draper. (Nov '14)|15 (Nov' 14)|Allows people to anonymously create and view posts within a 1.5 mile radius depending on how many other users are nearby.|
 |Pinterest|Social / Image-sharing|San Francisco|Pinterest generates its first revenue this year, when it begins charging advertisers to promote their wares to the site's millions of hobbyists, vacation planners, and do-it-yourselfers. Ads on the site could generate as much as $500 million in 2016, estimates Michael Pachter, an analyst at Wedbush Securities. (Jan '14)|300+ (Nov '14)|Web and mobile application company that offers a visual discovery, collection, sharing, and storage tool.|
-|Quora|Social/Questions|Mountain View|In April 2014, Quora announced an $80 million Series C round of funding, valuing the company at over $900 million. The funding was lead by Tiger Global Management.D’Angelo also said the site would likely introduce its first ads in 2015. (Nov '14)|108 (Nov '14)|A question-and-answer website where questions are created, answered, edited and organized by its community of users.|
 
 ## YC Companies
 
@@ -64,13 +63,6 @@ This list was based on www.breakoutlist.com. Check them out!
 |Snapchat|-|-|-|-|-|
 |Uber|Ridesharing|San Francisco|Despite what Glassdoor seems to indicate, Uber’s engineers absolutely love working there. Insane traction, as you probably know||Ridesharing service through mobile apps.|
 |Airbnb|-|-|-|-|-|
-
-## Stanford (current students)
-
-|Company|Description|
-|:-----:|:-------------:|
-|Dfly Systems|Solar technology company acquired by SunPower|
-|OneTune|Music streaming powered by communities|
 
 # Global Startups:
 
