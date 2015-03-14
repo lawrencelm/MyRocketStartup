@@ -26,9 +26,7 @@ This list was based on www.breakoutlist.com. Check them out!
 |:-----:|:-----:|:-----:|:-------------:|:-----:|:-------------:|
 |Magic Leap|-|-|-|-|-|
 |uBeam|-|-|-|-|-|
-|Paymentwall|Payment|San Francisco|Launched PaymentWall for Smart TV (Nov '14).|120+ (Nov '14)|A global payments platform for monetizing digital goods and services.|
-|Healthtap|Mobile health|Palo Alto|To date, it says it has served more than 1.2 billion answers to users’ questions, and it says it has saved lives, although this has not been substantiated.|11-50 (Nov '14)|Patients can ask medical questions of HealthTap+’s network of thousands of doctors for free, and get access to health tips, checklists, and news articles on a comprehensive array of health topics and issues. |
-|Yik Yak|-|-|-|-|-|
+|Yik Yak|-|-|It was valued for $400M in its last round.|-|-|
 |Product Hunt|-|-|-|-|-|
 |Homejoy|-|-|-|-|-|
 |RobinHood|-|-|-|-|-|
