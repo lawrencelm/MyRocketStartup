@@ -30,6 +30,7 @@ This list was based on www.breakoutlist.com. Check them out!
 |Product Hunt|-|-|-|-|-|
 |Homejoy|-|-|-|-|-|
 |RobinHood|-|-|-|-|-|
+|Whatsgoodly|-|-|Growing on campus. In general, it's an idea that can become very popular, but can also be a fad. It's worth to keep an eye open for them.|-|-|
 
 ## Social
 
@@ -80,8 +81,7 @@ This list was based on www.breakoutlist.com. Check them out!
 
 |Company|Description|
 |:-----:|:-------------:|
-|Ingresse|Biggest website for online tickets in the country|
-|Buscapé|E-commerce company|
+|EasyTaxi|Taxi App. Far more popular than Uber in Brazil, even in big cities, because Uber is still considerably more expensive than Taxi and people don't trust Uber. The four latest series of investment took Easy Taxi to over $77 million in backing.
 
 # Other lists
 
