@@ -44,7 +44,7 @@ This list was based on www.breakoutlist.com. Check them out!
 
 |Company|Industry|Location| Stage  |Size|Description|
 |:-----:|:-----:|:-----:|:-------------:|:-----:|:-------------:|
-|Airbnb|Accomodation and Travel|San Francisco|Released a glossy new print quarterly called Pineapple this month. (Nov '14) |1001-5000 employees (Nov '14. From Linkedin)|A trusted community marketplace for people to list, discover, and book unique accommodations around the world|
+|Airbnb|Accommodation and Travel|San Francisco|Released a glossy new print quarterly called Pineapple this month. (Nov '14) |1001-5000 employees (Nov '14. From Linkedin)|A trusted community marketplace for people to list, discover, and book unique accommodations around the world|
 |Reddit|News / Social|San Francisco|Yishan Wong (former CEO) resigned from reddit after a disagreement with the board regarding the new office's location (Nov '14). Raised $50M on a $500M valuation in a series B led by Sam Altman (Sep '14).|51 (Jul '14)|Entertainment, social networking service and news website where registered community members can submit content, such as text posts or direct links.|
 |Product Hunt|Curated Web|San Francisco|Growing fast and getting a lot of attention. Total funding received was $7.5 M in 4 rounds from 18 investors. Most recent funding was $440 K debt financing (Oct '14)||Surfaces the best new products, every day. It's a place for product-loving enthusiasts to share and geek out about the latest mobile apps, websites, hardware projects, and tech creations.|
 |Teespring|Custom Apparel / Crowdfunding|Providence, RI|News: 1 out of 75 americans bought a product from them in 2014. They say they're minting new millionaires selling their T-shirts. Just raised $35M in series B led by Khosla, with Keith Rabois (Khosla partner) joining the board. (Nov '14)|~70 (Nov '14)|A crowdfunding platform for custom apparel.|
@@ -91,7 +91,7 @@ This list was based on www.breakoutlist.com. Check them out!
 |:-----:|:-----:|:-----:|:-----:|:-----:|
 |Uber|Ridesharing|San Francisco|-||
 |Stripe|Payments|San Francisco||153 (Aug '14)|
-|Airbnb|Accomodation and Travel|San Francisco||1001-5000 employees (Nov '14. From Linkedin)|
+|Airbnb|Accommodation and Travel|San Francisco||1001-5000 employees (Nov '14. From Linkedin)|
 |Dropbox|File sharing / Cloud storage|San Francisco||552 (Jan '14)|
 |Pinterest|Social / Image-sharing|San Francisco|-|-|
 |Box|Enterprise Software / Cloud Storage|Los Altos|Box inched a bit closer to going public Monday, announcing a $150 million cash injection and updating its S-1 documents to show 2014 growth. (Jul '14)|750 (Mar '13)|
